@@ -1,3 +1,5 @@
+// Calcular a área de um quadrado
+
 import java.util.Scanner;
 
 class Calcular_Area{
