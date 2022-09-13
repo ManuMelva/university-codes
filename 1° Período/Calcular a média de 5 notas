@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-class Questao_7{
+class Media{
 	public static void main(String args[]){		
 		
 		Scanner scan = new Scanner(System.in);
