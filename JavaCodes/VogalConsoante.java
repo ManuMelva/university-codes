@@ -10,7 +10,7 @@ class Vogal_consoante{
 		String letra = "";
 
 		System.out.print("Digite uma letra em minusculo: ");
-		letra = scan.nextLine();
+		letra = scan.nextLine().toLowerCase();
 		
 		if (letra.equals("a") || letra.equals("e") || letra.equals("i") || letra.equals("o") || letra.equals("u")){
 			System.out.print("A letra e uma vogal.");
