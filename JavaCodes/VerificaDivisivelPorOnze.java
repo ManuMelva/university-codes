@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Codigo1{
+class VerificaDivisivelPorOnze{
 	public static void main(String args[]){
 		
 		Scanner scan = new Scanner(System.in);
